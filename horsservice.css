@@ -1,0 +1,17 @@
+header
+{
+    padding: 2%;
+    background-color: grey;
+    margin-top: -8px;
+}
+a{
+    text-decoration: none;
+    font-size: 145%;
+    margin-left: 2%;
+    color: white;
+
+}
+.home{
+    border-right: 1px solid white;
+    padding-right: 5%;
+}
