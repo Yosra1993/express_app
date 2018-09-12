@@ -15,3 +15,8 @@ a{
     border-right: 1px solid white;
     padding-right: 5%;
 }
+h1{
+    margin-left: 11%;
+    margin-top: 5%;
+    font-weight: normal;
+}
